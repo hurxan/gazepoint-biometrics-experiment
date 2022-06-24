@@ -14,12 +14,12 @@
   <p align="center">
     Simple PsychoPy experiment using the Gazepoint Eyetracker + Gazepoint Biometrics Kit.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://www.gazept.com/downloads/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/andreisenyuva/GazepointBiometrics_Experiment/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/andreisenyuva/GazepointBiometrics_Experiment/issues">Request Feature</a>
   </p>
 </div>
 
@@ -43,9 +43,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -55,8 +53,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This PsychoPy experiment runs multiple trials with a countdown timer. <br>
 While the experiment is running it collects data from the Gazepoint Eyetracker (in our case from the GP3) and from the Biometrics Kit.
@@ -108,7 +104,7 @@ The generated file contains data from:<br>
 * The GP3 (`FPOGX`, `FPOGY`, `...`)
 * The Biometrics Kit (`GSR	`, `HR`, `HRP`, `...`)
 
-_For more details about the data, please refer to the [OpenGaze API Documentation](https://example.com)_
+_For more details about the data, please refer to the [OpenGaze API Documentation](https://www.gazept.com/downloads/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
