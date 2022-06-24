@@ -132,6 +132,10 @@ Andrei Senyuva - hurcanandrei.senyuva@unipd.it
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* [PsychoBuilder Template](https://github.com/jgeller112/GazePoint_PsychoBuilder_Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
