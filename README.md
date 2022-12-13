@@ -21,9 +21,9 @@
     <a href="https://www.gazept.com/downloads/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/andreisenyuva/GazepointBiometrics_Experiment/issues">Report Bug</a>
+    <a href="https://github.com/hurxan/GazepointBiometrics_Experiment/issues">Report Bug</a>
     ·
-    <a href="https://github.com/andreisenyuva/GazepointBiometrics_Experiment/issues">Request Feature</a>
+    <a href="https://github.com/hurxan/GazepointBiometrics_Experiment/issues">Request Feature</a>
   </p>
 </div>
 
@@ -59,7 +59,7 @@
 ## About The Project
 
 This PsychoPy experiment runs multiple trials with a countdown timer. <br>
-While the experiment is running it collects data from the Gazepoint Eyetracker (in our case from the GP3) and from the Biometrics Kit.
+While the experiment is running it collects data from the Gazepoint Eyetracker (in my case from the GP3) and from the Biometrics Kit.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -91,7 +91,7 @@ Due to the Gazepoint Control being available exclusively for Windows this experi
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/andreisenyuva/GazepointBiometrics_Experiment.git
+   git clone https://github.com/hurxan/GazepointBiometrics_Experiment.git
    ```
 2. Open the downloaded repo and navigate to the `src` folder
 
@@ -132,7 +132,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 Andrei Senyuva - hurcanandrei.senyuva@unipd.it
 
-[Project Link](https://github.com/andreisenyuva/GazepointBiometrics_Experiment)
+[Project Link](https://github.com/hurxan/GazepointBiometrics_Experiment)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -143,12 +143,12 @@ Andrei Senyuva - hurcanandrei.senyuva@unipd.it
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/andreisenyuva/GazePointBiometrics_Experiment.svg?style=for-the-badge
-[contributors-url]: https://github.com/andreisenyuva/GazePointBiometrics_Experiment/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/andreisenyuva/GazePointBiometrics_Experiment.svg?style=for-the-badge
-[forks-url]: https://github.com/andreisenyuva/GazePointBiometrics_Experiment/network/members
-[stars-shield]: https://img.shields.io/github/stars/andreisenyuva/GazePointBiometrics_Experiment.svg?style=for-the-badge
-[stars-url]: https://github.com/andreisenyuva/GazePointBiometrics_Experiment/stargazers
-[issues-shield]: https://img.shields.io/github/issues/andreisenyuva/GazePointBiometrics_Experiment.svg?style=for-the-badge
-[issues-url]: https://github.com/andreisenyuva/GazePointBiometrics_Experiment/issues
+[contributors-shield]: https://img.shields.io/github/contributors/hurxan/GazePointBiometrics_Experiment.svg?style=for-the-badge
+[contributors-url]: https://github.com/hurxan/GazePointBiometrics_Experiment/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hurxan/GazePointBiometrics_Experiment.svg?style=for-the-badge
+[forks-url]: https://github.com/hurxan/GazePointBiometrics_Experiment/network/members
+[stars-shield]: https://img.shields.io/github/stars/hurxan/GazePointBiometrics_Experiment.svg?style=for-the-badge
+[stars-url]: https://github.com/hurxan/GazePointBiometrics_Experiment/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hurxan/GazePointBiometrics_Experiment.svg?style=for-the-badge
+[issues-url]: https://github.com/hurxan/GazePointBiometrics_Experiment/issues
 [product-screenshot]: images/screenshot.png
